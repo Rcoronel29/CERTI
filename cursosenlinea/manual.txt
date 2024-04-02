@@ -1,0 +1,22 @@
+1. la carpeta del archivo descomprimir en 
+1.1 xampp/htdocs
+
+2. abrir la carpeta con visual studio code
+
+3. ejecutar en el terminal: php artisan migrate
+
+4. ejecutar en el terminal: php artisan migrate --seed
+
+5. ejecutar en el terminal: php artisan serve
+
+6. buscar en el navegador: http://127.0.0.1:8000 (para consultar certificados)
+
+7. buscar en el navegador: http://127.0.0.1:8000/login (para crear certificados)
+
+7.1 credenciales del login
+limber@gmail.com
+12345678
+
+	
+
+ 
